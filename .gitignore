@@ -1,4 +1,8 @@
 Hangman.class
 target/
 
-
+.DS_Store
+.classpath
+.project
+.settings/
+.vscode
