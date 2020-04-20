@@ -7,7 +7,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <exec.mainClass>com.github.wewe34.Hangman</exec.mainClass>
+        <exec.mainClass>com.github.wewe34.hangman.Hangman</exec.mainClass>
         <exec.args></exec.args>
     </properties>
 </project>
